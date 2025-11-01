@@ -49,5 +49,6 @@ npm install
 # Start the development server
 npm start
 
-The app is available at https://chibz.netlify.app/
+# The app is available at
+https://chibz.netlify.app/
 
