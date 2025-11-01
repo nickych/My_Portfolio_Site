@@ -30,20 +30,6 @@ It features smooth animations, a light/dark mode toggle, and a responsive design
 
 ---
 
-## 📂 Project Structure
-
-src/
-├── assets/ # Images and icons
-├── common/ # ThemeContext, SkillList components
-├── components/
-│ ├── Hero/ # Landing section
-│ ├── Skills/ # Skills section
-│ ├── Contact/ # Contact form
-│ └── Footer/ # Footer section
-├── App.js
-└── index.js
-
-
 ---
 
 ## ⚙️ Installation & Setup
@@ -63,5 +49,5 @@ npm install
 # Start the development server
 npm start
 
-The app will be available at https://chibz.netlify.app/
+The app is available at https://chibz.netlify.app/
 
