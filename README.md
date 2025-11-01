@@ -41,7 +41,7 @@ To run this project locally:
 https://github.com/nickych/My_Portfolio_Site.git
 
 # Navigate to the project folder
-cd portfolio
+cd My_Portfolio_Site
 
 # Install dependencies
 npm install
