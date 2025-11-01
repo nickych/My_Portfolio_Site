@@ -8,13 +8,13 @@ It features smooth animations, a light/dark mode toggle, and a responsive design
 ---
 
 ## 🌟 Features
-- 🌓 **Light & Dark Theme** — dynamic mode switch for personalized viewing  
-- 🎬 **Animated Hero Section** — typewriter effect powered by `Typed.js`  
-- 💡 **Skills Section** — highlights key technologies and tools  
-- ✉️ **Contact Form** — connected via `Formspree` for direct messaging  
-- 💥 **Smooth Animations** — using `Framer Motion` for modern UI effects  
-- 🧱 **Error Boundaries** — prevent crashes and display friendly fallback messages  
-- 🌐 **Fully Responsive** — adapts to all screen sizes  
+- 🌓 **Light & Dark Theme** -> dynamic mode switch for personalized viewing  
+- 🎬 **Animated Hero Section** -> typewriter effect powered by `Typed.js`  
+- 💡 **Skills Section** -> highlights key technologies and tools  
+- ✉️ **Contact Form** -> connected via `Formspree` for direct messaging  
+- 💥 **Smooth Animations** -> using `Framer Motion` for modern UI effects  
+- 🧱 **Error Boundaries** -> prevent crashes and display friendly fallback messages  
+- 🌐 **Fully Responsive** -> adapts to all screen sizes  
 
 ---
 
