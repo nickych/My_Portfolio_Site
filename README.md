@@ -1,7 +1,7 @@
 # 🧑‍💻 Nicky Chibilika @Personal Portfolio
 
 ## 🚀 Overview
-This is my **personal portfolio website** built with **React**, **Framer Motion**, and **Typed.js** — showcasing my work, skills, and experience as a **Full-stack Web Dev** , **Cyber Security Analyst** and **Python Developer**.
+This is my **personal portfolio website** built with **React**, **Framer Motion**, and **Typed.js**, showcasing my work, skills, and experience as a **Full-stack Web Dev** , **Cyber Security Analyst** and **Python Developer**.
 
 It features smooth animations, a light/dark mode toggle, and a responsive design that works beautifully across all devices.
 
